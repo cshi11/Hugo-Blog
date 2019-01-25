@@ -8,6 +8,7 @@ disqusShortname = ""
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
+canonifyurls = true
 
 [params]
   # Unmark to use post folder for images. Default is static folder.
