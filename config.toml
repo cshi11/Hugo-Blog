@@ -12,7 +12,7 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "人生天地间，忽如远行客"
+  slogan = "人生天地间，忽如远行客。"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Göran Svensson"
@@ -47,15 +47,15 @@ paginate = 5 #frontpage pagination
   url = "/"
   weight = 1
 
-  [[menu.main]]
-  name = "About"
-  url = "about/"
-  weight = 2
+  # [[menu.main]]
+  # name = "About"
+  # url = "about/"
+  # weight = 2
 
-  [[menu.main]]
-  name = "Get in touch"
-  url = "contact/"
-  weight = 3
+  # [[menu.main]]
+  # name = "Get in touch"
+  # url = "contact/"
+  # weight = 3
 
 # this will also be in author bio if there is no writer.
   [params.social]
@@ -76,7 +76,7 @@ paginate = 5 #frontpage pagination
     link = "https://lherman.tk"
     email = "stancheng197@gmail.com"
     bio = [
-      "修过飞机，写过代码。"
+      "| CAUC 飞行器动力工程  <br>| 南航大连机务工程师 <br>| BIT 软件工程"
     ]
     # facebook      = "full lukas profile url in facebook"
     # googleplus    = "full profile url in googleplus"
