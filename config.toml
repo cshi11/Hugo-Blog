@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://cshi11.github.io/"
 title = "子适 Blog"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
