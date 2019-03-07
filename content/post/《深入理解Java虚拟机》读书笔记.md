@@ -5,7 +5,7 @@ showonlyimage = true
 date = "2019-3-07T20:23:59+05:30"
 title = "《深入理解Java虚拟机》读书笔记"
 writer = "子适"
-categories = [ "read" ]
+categories = [ "code" ]
 weight = 1
 +++
 

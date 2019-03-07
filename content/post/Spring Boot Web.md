@@ -1,11 +1,11 @@
 +++
 draft = false
-image = "https://i.loli.net/2019/03/07/5c8128cbe1e4f.jpg"
+image = "https://i.loli.net/2019/03/07/5c8131835ccd3.jpeg"
 showonlyimage = true
 date = "2019-3-07T20:23:59+05:30"
 title = "Spring Boot Web 学习记录"
 writer = "子适"
-categories = [ "read" ]
+categories = [ "code" ]
 weight = 1
 +++
 
